@@ -16,7 +16,7 @@ A data enthusiast and coding craftsman, brewing robust code in R and Python. ðŸ“
 - ðŸŒŸ I strive to write code that's as clean and efficient as the conclusions drawn from my analyses.
 
 ## Let's Connect!
-If you're intrigued by the power of data or share a passion for R and Python, let's merge our ideas and create something phenomenal!
+If you're intrigued by the power of data or share a passion for R and Python, let's merge our ideas and create something phenomenal! https://www.linkedin.com/in/salsabil-areeb/
 
 
 <!---
