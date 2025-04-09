@@ -1,7 +1,7 @@
 ### Hello World, I'm Areeb Salsabil! 👋
 AI/ML Enthusiast | Data Storyteller | Code Crafter
 
-## 👨‍💻 Who Am I?
+## Who Am I?
 A data-driven problem solver blending creativity with analytics. I craft intelligent solutions using Python, R, and the power of machine learning.Who Am I?
 A data enthusiast and coding craftsman, brewing robust code in R and Python. 📊🐍
 
